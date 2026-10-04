@@ -4,7 +4,7 @@ Newtonite is a modern, responsive, full-stack team collaboration and operational
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 ### 1. Interactive Analytics & Dashboard
 - **Executive Stat Cards**: Real-time counts for *My Work Items*, *Critical/High Risk Items*, *Blocked Work*, and *Overdue Tasks*.
@@ -49,7 +49,7 @@ Newtonite is a modern, responsive, full-stack team collaboration and operational
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Node.js**: version `18.18.0` or higher (Node 20+ recommended)
@@ -78,7 +78,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 👥 Demo Credentials
+## Demo Credentials
 
 The seed script creates the following demo users (all accounts use password: `password123`):
 
@@ -92,7 +92,7 @@ The seed script creates the following demo users (all accounts use password: `pa
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── app/
@@ -126,7 +126,7 @@ The seed script creates the following demo users (all accounts use password: `pa
 
 ---
 
-## 📡 API Reference Summary
+## API Reference Summary
 
 - `POST /api/auth/login` - Authenticate user credentials and establish session
 - `POST /api/auth/logout` - Clear user session
